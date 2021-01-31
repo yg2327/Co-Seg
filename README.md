@@ -10,7 +10,7 @@ The Code will be available soon.
 
 ========
 
-This is the code for the paper: Co-Seg: An Image Segmentation Framework against Label Correction
+This is the code for the paper: [Co-Seg: An Image Segmentation Framework against Label Correction](https://github.com/yg2327/Co-Seg/blob/main/Co-Seg%20manuscript.pdf)
 
 
 Ziyi Huang, Haofeng Zhang, Andrew F. Laine, Elsa Angelini, Christine Hendon, Yu Gan
