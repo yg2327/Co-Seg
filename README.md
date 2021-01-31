@@ -10,6 +10,7 @@ The Code will be available soon.
 ========
 
 This is the code for the paper: Co-Seg: An Image Segmentation Framework against Label Correction
+
 Ziyi Huang, Haofeng Zhang, Andrew F. Laine, Elsa Angelini, Christine Hendon, Yu Gan
 To be presented at ISBI 2021.
 
