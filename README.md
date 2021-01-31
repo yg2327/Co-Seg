@@ -3,7 +3,7 @@ ISBI 2021: Co-Seg: An Image Segmentation Framework against Label Correction.
 
 The data is based on http://db.jsrt.or.jp/eng.php
 
-The manual label data is available at 
+The manual label data is available at https://github.com/yg2327/Co-Seg/blob/main/data%20label.zip
 
 The Code will be available soon.
 
